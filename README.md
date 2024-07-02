@@ -17,3 +17,7 @@ A rudimentary virtual pet game.
 <u>
   <li>add interactive playtime minigames</li>
 </u>
+
+## Credits
+I made the animated sprites based on the <a href="https://www.spriters-resource.com/pc_computer/stardewvalley/sheet/224030/">cat</a> in Stardew Valley.<br>
+Sounds: <a href="https://www.youtube.com/watch?v=uLB1ZeRgl_k">meow</a> <a href="https://www.youtube.com/watch?v=ycHTiTSCBR4">purr</a>
